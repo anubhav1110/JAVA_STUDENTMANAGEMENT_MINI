@@ -20,7 +20,6 @@ app.java               <-- Main Java application file
 - 🔍 Search students by ID
 - 🗑️ Remove students by ID
 - 👀 Display all student records
-- 📄 Automatically update the CSV file with every change
 
 ---
 
