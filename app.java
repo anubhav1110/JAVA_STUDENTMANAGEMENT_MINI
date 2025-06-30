@@ -86,7 +86,7 @@ public class app {
             case 1:
                 
                 System.out.print("Enter student name: ");
-                String name = scanner.next();
+                String name = scanner.nextLine();
                 System.out.print("Enter student age: ");
                 int age = scanner.nextInt();
                 Student student = new Student(name, age);
